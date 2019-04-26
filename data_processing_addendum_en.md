@@ -18,65 +18,63 @@ DPA the DPA shall prevail.
 is used in the following meanings unless the context indicates a different
 meaning: 
 
-    2.1.1. Applicable Law means all legislation, ordinations and advice from
-    supervisory authorities, applicable to Voog (includes also the European
-    Regulation 2016 /679 on the protection of natural persons with regard to
-    the processing of personal data and on the free movement of such data
-    known as the EU GPDR (General Data Protection Regulation), hereinafter the
-    “GDPR”);
+2.1.1. Applicable Law means all legislation, ordinations and advice from
+supervisory authorities, applicable to Voog (includes also the European
+Regulation 2016 /679 on the protection of natural persons with regard to the
+processing of personal data and on the free movement of such data known as the
+EU GPDR (General Data Protection Regulation), hereinafter the “GDPR”);
 
-    2.1.2. Consent means any freely given, specific, informed and unambiguous
-    indication of the Data Subject's wishes by which he/she, by a statement or
-    by a clear affirmative action, signifies agreement to the processing of
-    Personal Data relating to him/her;
+2.1.2. Consent means any freely given, specific, informed and unambiguous
+indication of the Data Subject's wishes by which he/she, by a statement or by
+a clear affirmative action, signifies agreement to the processing of Personal
+Data relating to him/her;
 
-    2.1.3. Controller means a natural or legal person, public authority,
-    agency or other body which, alone or jointly with others, determines the
-    purposes and means of the processing of Personal Data; 
+2.1.3. Controller means a natural or legal person, public authority, agency or
+other body which, alone or jointly with others, determines the purposes and
+means of the processing of Personal Data; 
 
-    2.1.4. Data Subject means an identified or identifiable natural person;
+2.1.4. Data Subject means an identified or identifiable natural person;
 
-    2.1.5. Data Breach means a breach of security leading to the accidental or
-    unlawful destruction, loss, alteration, unauthorized disclosure of, or
-    access to, Personal Data transmitted, stored or otherwise processed; 
+2.1.5. Data Breach means a breach of security leading to the accidental or
+unlawful destruction, loss, alteration, unauthorized disclosure of, or access
+to, Personal Data transmitted, stored or otherwise processed; 
 
-    2.1.6. Personal Data means any information relating to a Data Subject that
-    enables to identify, directly or indirectly, in particular by reference to
-    an identifier such as a name, an identification number, location data, an
-    online identifier or to one or more factors specific to the physical,
-    physiological, genetic, mental, economic, cultural or social identity of
-    that natural person; 
+2.1.6. Personal Data means any information relating to a Data Subject that
+enables to identify, directly or indirectly, in particular by reference to an
+identifier such as a name, an identification number, location data, an online
+identifier or to one or more factors specific to the physical, physiological,
+genetic, mental, economic, cultural or social identity of that natural person; 
 
-    2.1.7. Processing means any operation or set of operations which is
-    performed on Personal Data or on sets of Personal Data, whether or not by
-    automated means, such as collection, recording, organization, structuring,
-    storage, adaptation or alteration, retrieval, consultation, use,
-    disclosure by transmission, dissemination or otherwise making available,
-    alignment or combination, restriction, erasure or destruction; 
+2.1.7. Processing means any operation or set of operations which is performed
+on Personal Data or on sets of Personal Data, whether or not by automated
+means, such as collection, recording, organization, structuring, storage,
+adaptation or alteration, retrieval, consultation, use, disclosure by
+transmission, dissemination or otherwise making available, alignment or
+combination, restriction, erasure or destruction; 
 
-    2.1.8. Processor means a natural or legal person, public authority, agency
-    or other body which processes Personal Data on behalf of the Controller;
+2.1.8. Processor means a natural or legal person, public authority, agency or
+other body which processes Personal Data on behalf of the Controller;
 
-    2.1.9. Services means services which are listed or provided according to
-    the Terms of Service; 
+2.1.9. Services means services which are listed or provided according to the
+Terms of Service; 
 
-    2.1.10. Subprocessor means any subprocessor processing Personal Data
-    engaged by Voog; 
+2.1.10. Subprocessor means any subprocessor processing Personal Data engaged
+by Voog; 
 
-    2.1.11. Third Party means a person who is not a Party to the contract
-    concluded between the Parties; 
+2.1.11. Third Party means a person who is not a Party to the contract
+concluded between the Parties; 
 
-    2.1.12. Third Party Services means all services which are provided to and
-    for or from a Third Party;
+2.1.12. Third Party Services means all services which are provided to and for
+or from a Third Party;
 
-    2.1.13. Your Controlled Data means the Personal Data processed by Voog on
-    Your behalf and according to Your instructions as part of the Services,
-    but only to the extent of which You are subject to under Applicable Law.
-    Your Controlled Data does not include Personal Data when controlled by us,
-    including without limitation data we collect (including IP address,
-    device/browser details and web pages visited prior to coming to Voog’s
-    Site) with respect to Your end users’ interactions with Your site through
-    their browser and technologies like cookies;
+2.1.13. Your Controlled Data means the Personal Data processed by Voog on Your
+behalf and according to Your instructions as part of the Services, but only to
+the extent of which You are subject to under Applicable Law.  Your Controlled
+Data does not include Personal Data when controlled by us, including without
+limitation data we collect (including IP address, device/browser details and
+web pages visited prior to coming to Voog’s Site) with respect to Your end
+users’ interactions with Your site through their browser and technologies like
+cookies;
 
 2.2. Headings are used in this DPA are for convenience only and shall not
 affect any construction or interpretation of this DPA.
@@ -141,104 +139,100 @@ Controlled Data.
 
 7.2. Audits
 
-    7.2.1. Voog shall make available to You upon request all information
-    necessary to demonstrate compliance with the obligations laid down in this
-    DPA.
+7.2.1. Voog shall make available to You upon request all information necessary
+to demonstrate compliance with the obligations laid down in this DPA.
 
-    7.2.2. Voog shall allow for and contribute to audits, including
-    inspections, requested by You. These audits may be conducted by an
-    independent auditor bound by confidentiality obligations appointed by
-    Voog.
+7.2.2. Voog shall allow for and contribute to audits, including inspections,
+requested by You. These audits may be conducted by an independent auditor
+bound by confidentiality obligations appointed by Voog.
 
-    7.2.3. The audits will be carried out no more than once a year, unless an
-    exceptional event justifies an audit (e.g. a request or investigation by a
-    supervisory authority, a request by a Data Subject).
+7.2.3. The audits will be carried out no more than once a year, unless an
+exceptional event justifies an audit (e.g. a request or investigation by a
+supervisory authority, a request by a Data Subject).
 
-    7.2.4. Your right to request audits cannot affect and/or impede Voog’s
-    economic and professional activities, other Voog’s clients and Data
-    Subjects, Voog’s confidentiality obligations etc. Voog can determine the
-    audit conditions regarding time and place.
+7.2.4. Your right to request audits cannot affect and/or impede Voog’s
+economic and professional activities, other Voog’s clients and Data Subjects,
+Voog’s confidentiality obligations etc. Voog can determine the audit
+conditions regarding time and place.
 
-    7.2.5. When infringements are detected during the audits, Voog will be
-    given a reasonable timeframe (usually from twenty (20) to forty (40) days,
-    but possibly less), depending on the nature and severity of the
-    infringements, to implement corrective actions at Voog’s own expense.
+7.2.5. When infringements are detected during the audits, Voog will be given a
+reasonable timeframe (usually from twenty (20) to forty (40) days, but
+possibly less), depending on the nature and severity of the infringements, to
+implement corrective actions at Voog’s own expense.
 
-    7.2.6. You will pay Voog’s costs in considering and addressing any request
-    in relation to the audits. 
+7.2.6. You will pay Voog’s costs in considering and addressing any request in
+relation to the audits. 
 
 7.3. Sub-Processors.
 
-    7.3.1. Voog has the right to engage Subprocessor to carry out all or part
-    of the Processing activities entrusted to Voog by You.
+7.3.1. Voog has the right to engage Subprocessor to carry out all or part of
+the Processing activities entrusted to Voog by You.
 
-    7.3.2. Upon your written request Voog shall communicate to You in writing
-    (i) the identity of the Subprocessor, (ii) the location of the
-    Subprocessor and (iii) the location of the Processing activities carried
-    out by the Subprocessor.
+7.3.2. Upon your written request Voog shall communicate to You in writing (i)
+the identity of the Subprocessor, (ii) the location of the Subprocessor and
+(iii) the location of the Processing activities carried out by the
+Subprocessor.
 
-    7.3.3. The Subprocessor shall be subject to the same obligations as Voog
-    according to this DPA. Therefore, the Subprocessor shall comply with all
-    obligations set out in this DPA and the obligations applicable to the
-    Processor under the GDPR and any applicable data protection laws and
-    regulations. Voog must impose these obligations on the Subprocessor, in
-    writing by the way of a contract.
+7.3.3. The Subprocessor shall be subject to the same obligations as Voog
+according to this DPA. Therefore, the Subprocessor shall comply with all
+obligations set out in this DPA and the obligations applicable to the
+Processor under the GDPR and any applicable data protection laws and
+regulations. Voog must impose these obligations on the Subprocessor, in
+writing by the way of a contract.
 
-    7.3.4. Voog shall cause the Subprocessor to strictly comply with all
-    obligations set out in this DPA and Voog will in any case remain fully
-    liable to You for the due and timely performance of all and any such
-    obligations by the Subprocessor.
+7.3.4. Voog shall cause the Subprocessor to strictly comply with all
+obligations set out in this DPA and Voog will in any case remain fully liable
+to You for the due and timely performance of all and any such obligations by
+the Subprocessor.
 
 7.4. Security measures
 
-    7.4.1. Parties shall implement appropriate technical and organizational
-    measures to ensure an adequate level of security for the Personal Data in
-    order (in particular) to prevent the Personal Data from accidental or
-    unlawful destruction, loss, alteration, unauthorized disclosure, use or
-    unauthorized access. These measures must comply with Applicable Law.
+7.4.1. Parties shall implement appropriate technical and organizational
+measures to ensure an adequate level of security for the Personal Data in
+order (in particular) to prevent the Personal Data from accidental or unlawful
+destruction, loss, alteration, unauthorized disclosure, use or unauthorized
+access. These measures must comply with Applicable Law.
 
-    7.4.2. Parties must implement a process for regularly testing, assessing
-    and evaluating the effectiveness of these measures for ensuring the
-    security of the Processing.
+7.4.2. Parties must implement a process for regularly testing, assessing and
+evaluating the effectiveness of these measures for ensuring the security of
+the Processing.
 
-    7.4.3. Voog agrees that it shall not disclose any Personal data to any
-    third party without Your consent, except according to this DPA or if
-    legally allowed or obligated to do so.
+7.4.3. Voog agrees that it shall not disclose any Personal data to any third
+party without Your consent, except according to this DPA or if legally allowed
+or obligated to do so.
 
 7.5. Cross border data transfers
 
-    7.5.1. Voog shall not transfer Personal Data provided by You, its
-    affiliates or their employees to countries outside the European Economic
-    Area or other countries with cross border data transfer restrictions
-    unless Voog has implemented appropriate safeguards in accordance with
-    Applicable Law.
+7.5.1. Voog shall not transfer Personal Data provided by You, its affiliates
+or their employees to countries outside the European Economic Area or other
+countries with cross border data transfer restrictions unless Voog has
+implemented appropriate safeguards in accordance with Applicable Law.
 
-    7.5.2. Prior to any cross border transfer, Voog must confirm whether there
-    is (i) a decision from the European Commission or a competent authority in
-    the relevant exporting country acknowledging that the importing country or
-    importing category of recipients provide an adequate level of protection
-    (ii) approved binding corporate rules or (iii) an approved certification
-    authorizing the transfer or (iv) an approved code of conduct authorizing
-    the transfer or (v) another approved data transfer mechanism in the
-    relevant exporting country.
+7.5.2. Prior to any cross border transfer, Voog must confirm whether there is
+(i) a decision from the European Commission or a competent authority in the
+relevant exporting country acknowledging that the importing country or
+importing category of recipients provide an adequate level of protection (ii)
+approved binding corporate rules or (iii) an approved certification
+authorizing the transfer or (iv) an approved code of conduct authorizing the
+transfer or (v) another approved data transfer mechanism in the relevant
+exporting country.
 
-    7.5.3. When the transfer cannot benefit from the above-mentioned
-    safeguards, Voog (as a Data Exporter) and the Data recipient (as a Data
-    Importer) must conclude and implement standard contractual clauses adopted
-    or approved under Applicable Law or regulations of the exporting country,
-    such as the “Standard Contractual Clauses (processors) for the transfer of
-    personal data to processor established in third countries which do not
-    ensure an adequate level of data protection” proposed by the EU
-    Commission. In this context, Voog (i) will make sure that, at all times,
-    the Data Importer fully implements appropriate safeguards in accordance
-    with this DPA, Applicable Law and (ii) proceeds with any relevant
-    assessment, and (iii) immediately informs the Data Controller (You) in
-    case of any breach by the data Importer or as the case may be, any
-    subsequent Subprocessors.
+7.5.3. When the transfer cannot benefit from the above-mentioned safeguards,
+Voog (as a Data Exporter) and the Data recipient (as a Data Importer) must
+conclude and implement standard contractual clauses adopted or approved under
+Applicable Law or regulations of the exporting country, such as the “Standard
+Contractual Clauses (processors) for the transfer of personal data to
+processor established in third countries which do not ensure an adequate level
+of data protection” proposed by the EU Commission. In this context, Voog (i)
+will make sure that, at all times, the Data Importer fully implements
+appropriate safeguards in accordance with this DPA, Applicable Law and (ii)
+proceeds with any relevant assessment, and (iii) immediately informs the Data
+Controller (You) in case of any breach by the data Importer or as the case may
+be, any subsequent Subprocessors.
 
-    7.5.4. If You are the one who asks for the transfer of Personal data to
-    third country, You have to submit to Voog documentation, which confirms
-    that the transfer complies with Applicable Law.
+7.5.4. If You are the one who asks for the transfer of Personal data to third
+country, You have to submit to Voog documentation, which confirms that the
+transfer complies with Applicable Law.
 
 ## 8\. Data Breach 
 
