@@ -84,24 +84,24 @@ you, also including Personal Data as follows.
   send push notifications to your device. We also may use these technologies to
   collect information regarding your interaction with email messages, such as
   whether you opened, clicked on, or forwarded a message.
-  - **Usage information.** We collect information about how you engage with our
-    Service, such as which actions you perform and features you use. We use
-    this information to provide you the Service, develop new features, protect
-    the security of the Service and provide customer support. 
-  - **Information from cookies and other tracking technologies.** Cookies are
-    small text files containing a string of alphanumeric characters that a
-    website stores on a visitor’s device and is retrieved by visitor’s browser
-    each time the visitor returns. "Pixels", "clear gifs" and "web beacons" are
-    small blocks of code that are placed on websites and emails. We collect
-    cookies on the Service to: (i) personalize our services, such as
-    remembering your information so that you will not have to re-enter it
-    during your visit or the next time you visit the Service; (ii) provide
-    customized advertisements, content, and information; (iii) monitor and
-    analyze the effectiveness of the Service and third-party marketing
-    activities; (iv) monitor aggregate Service usage metrics such as total
-    number of visitors and pages viewed; (v) track your entries, submissions,
-    and status in any promotions or other activities on the Service; and (vi)
-    provide push notifications on mobile devices.
+- **Usage information.** We collect information about how you engage with our
+  Service, such as which actions you perform and features you use. We use this
+  information to provide you the Service, develop new features, protect the
+  security of the Service and provide customer support. 
+- **Information from cookies and other tracking technologies.** Cookies are
+  small text files containing a string of alphanumeric characters that a
+  website stores on a visitor’s device and is retrieved by visitor’s browser
+  each time the visitor returns. "Pixels", "clear gifs" and "web beacons" are
+  small blocks of code that are placed on websites and emails. We collect
+  cookies on the Service to: (i) personalize our services, such as remembering
+  your information so that you will not have to re-enter it during your visit
+  or the next time you visit the Service; (ii) provide customized
+  advertisements, content, and information; (iii) monitor and analyze the
+  effectiveness of the Service and third-party marketing activities; (iv)
+  monitor aggregate Service usage metrics such as total number of visitors and
+  pages viewed; (v) track your entries, submissions, and status in any
+  promotions or other activities on the Service; and (vi) provide push
+  notifications on mobile devices.
 
 ## Information we collect from third-parties
 
@@ -124,35 +124,35 @@ the processing purposes and legal basis are as follows:
   process and deliver entries and rewards in connection with promotions that
   may be offered from time to time on the Service.
 
-Legal basis: performance of a contract; legitimate interests 
+  Legal basis: performance of a contract; legitimate interests 
 
 - **Improving the Service**: We use the information that we collect on the
   Service to understand and analyze the usage trends and preferences of our
   users, to improve the Service, and to develop new products, services,
   features, and functionality.
 
-Legal basis: performance of a contract; legitimate interests 
+  Legal basis: performance of a contract; legitimate interests 
 
 - **Customer support**: We use your email address or other information we
   collect on the Service to contact you for administrative purposes such as
   customer service, to address intellectual property infringement, privacy
   violations or defamation issues.
 
-Legal basis: performance of a contract 
+  Legal basis: performance of a contract 
 
 - **Marketing**: We use your email address or other Personal Data we collect on
   the Service to send communications, including updates on promotions and
   events, relating to products and services offered by us and by third parties
   we work with. 
 
-Legal basis: consent
+  Legal basis: consent
 
 - **Compliance with a legal obligation**: We may use your Personal Data to
   comply with obligations arising from the law. Such processing may include for
   example the following: replying to inquiries from authorities, fulfilment of
   accounting obligations. 
 
-Legal basis: legal obligation 
+  Legal basis: legal obligation 
 
 We also may use your Personal Data as may be described in a separate privacy
 notice to you at the time the information is collected, or in other manner to

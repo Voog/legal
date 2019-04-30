@@ -124,35 +124,35 @@ alus on eelkõige järgmised.
   samuti selleks, et töödelda ja kohale toimetada osalemissoove ja auhindu
   seoses reklaamikampaaniatega, mida võidakse teenuses aeg-ajalt pakkuda.
 
-Õiguslik alus: lepingu täitmine, õigustatud huvi.
+  Õiguslik alus: lepingu täitmine, õigustatud huvi.
 
 - **Teenuse täiustamine.** Me kasutame teenuse vahendusel kogutavat teavet, et
   mõista ja analüüsida meie kasutajate kasutustrende ja eelistusi, täiustada
   teenust ning töötada välja uusi tooteid, teenuseid, funktsioone ja
   funktsionaalsusi.
 
-Õiguslik alus: lepingu täitmine, õigustatud huvi.
+  Õiguslik alus: lepingu täitmine, õigustatud huvi.
 
 - **Klienditugi.** Me kasutame Teie e-posti aadressi ja muud teenuse vahendusel
   kogutavat teavet, et võtta Teiega ühendust administratiivküsimustes, näiteks
   klienditeenindus, või et menetleda intellektuaalomandi või privaatsusega
   seotud rikkumisi või au teotamisega seotud küsimusi.
 
-Õiguslik alus: lepingu täitmine.
+  Õiguslik alus: lepingu täitmine.
 
 - **Turundus.** Me kasutame Teie e-posti aadressi ja muid teenuse vahendusel
   kogutavaid isikuandmeid, et saata teateid meie ja kolmandate isikute, kellega
   me koostööd teeme, pakutavate toodete ja teenuste kohta, sealhulgas värsket
   teavet reklaamikampaaniate ja ürituste kohta.
 
-Õiguslik alus: nõusolek.
+  Õiguslik alus: nõusolek.
 
 - **Juriidilise kohustuse täitmine.** Me võime kasutada Teie isikuandmeid
   seadusest tulenevate kohustuste täitmiseks. Selline töötlemine võib hõlmata
   näiteks järgmist: ametiasutuste päringutele vastamine,
   raamatupidamiskohustuste täitmine.
 
-Õiguslik alus: juriidiline kohustus.
+  Õiguslik alus: juriidiline kohustus.
 
 Samuti võime kasutada Teie isikuandmeid nii, nagu on kirjeldatud Teile andmete
 kogumisel esitatavas eraldi privaatsusteatises, või mis tahes muul viisil,
