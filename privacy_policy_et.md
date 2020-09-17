@@ -219,9 +219,7 @@ eeldusel, et on võetud kohaseid kaitsemeetmeid. Sellised kaitsemeetmed on
 näiteks järgmised: 1) loetakse, et isikuandmete vastuvõtja riigis on andmete
 kaitse piisaval tasemel, nagu on kehtestanud Euroopa Komisjon; 2) sõlmitakse
 leping, mis sisaldab EL-i lepingu tüüptingimusi või muid heakskiidetud
-tingimusi, tegevusjuhendeid või sertifikaate; 3) vastuvõtja on sertifitseeritud
-andmekaitseraamistiku Privacy Shield alusel (kehtib juhul, kui vastuvõtja asub
-Ameerika Ühendriikides).
+tingimusi, tegevusjuhendeid või sertifikaate.
 
 ## Kuidas me tagame Teie andmete turvalisuse
 

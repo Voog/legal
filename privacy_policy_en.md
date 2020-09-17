@@ -219,9 +219,7 @@ provided that appropriate safeguards are in place. Such safeguards can for
 example be the following: (1) the country of the recipient of the Personal Data
 is deemed to have adequate level of data protection as decided by the EU
 Commission; (2) agreement is signed which includes the EU Standard Contractual
-Clauses or other approved clauses, code of conducts or certifications; (3) the
-recipient is certified under the Privacy Shield (applicable in case of
-recipients located in the United States.)  
+Clauses or other approved clauses, code of conducts or certifications.
 
 ## How we secure your data
 
