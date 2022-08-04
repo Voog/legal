@@ -7,7 +7,7 @@ Kehtib alates 25. maist 2018
 Tere tulemast ning täname huvi tundmast Voo rakenduse (edaspidi: **rakendus**)
 ja meie veebisaidi [www.voog.com](http://www.voog.com) (edaspidi:
 **veebisait**) vastu, mille toob Teieni Eesti osaühing **Edicy OÜ**,
-registrikood 12176224, (edaspidi: **Voog**, **meid** või **meie**). Veebisait
+registrikood 12176224, aadress Raekoja plats 1, Tartu 51003, Eesti (edaspidi: **Voog**, **meid** või **meie**). Veebisait
 ja rakendus, samuti kõik seotud platvormid ja võrgud ning kogu allalaaditav
 tarkvara ja kõik muud meie osutatavad teenused edaspidi koos nimetatud meie
 **teenus**.

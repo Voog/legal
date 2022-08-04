@@ -6,7 +6,7 @@ Effective: May 25, 2018
 
 Welcome, and thank you for your interest in Voog application (the **App**) and
 our website www.voog.com (the **Website**), provided to you by an Estonian
-private limited company **Edicy OÜ**, registry code 12176224, (**Voog**, **us**
+private limited company **Edicy OÜ**, registry code 12176224, address Raekoja plats 1, Tartu 51003, Estonia (**Voog**, **us**
 or **we**). The Website and the App, as well as all related platforms,
 networks, downloadable software, and other services provided by us, are
 collectively referred to as our **Service**.
@@ -14,14 +14,14 @@ collectively referred to as our **Service**.
 This privacy policy (the **Policy**) describes the Personal Data that we, when
 acting in the capacity of a Data Controller, gather about our Clients in
 relation to the Service, how we use and disclose such Personal Data, and the
-steps we take to protect it. 
+steps we take to protect it.
 
 Client is Data Controller for Personal Data that it uploads, stores and
 otherwise processes in the Service about its customer or a third person. We do
 not own, control, direct or determine the use of any of the information stored
-or processed by our Clients via the Service. 
+or processed by our Clients via the Service.
 
-## Definitions 
+## Definitions
 
 - **Client** means natural or legal person who has entered into an agreement
   with Voog, and to whom Voog has granted a license to use the Service under
@@ -34,7 +34,7 @@ or processed by our Clients via the Service.
 - **Data Processor** means a natural or legal person, public authority, agency
   or other body which processes personal data on behalf of Data Controller;
 - **Personal Data** means any information relating to an identified or
-  identifiable natural person; 
+  identifiable natural person;
 - **Processing** means any operation or set of operations which is performed on
   Personal Data or on sets of Personal Data.
 
@@ -55,7 +55,7 @@ you, also including Personal Data as follows.
     the Service – a domain, a subscription plan – you supply the Service with
     additional personal and payment information that is necessary to process
     the transaction of the payment. Such information may include credit card
-    details, banking information, billing address. 
+    details, banking information, billing address.
   - **Content on your website.** The content that you make public on the
     Service will be available not only to us but to anyone with access to the
     Internet and may be indexed by search engines and stored on internet
@@ -87,7 +87,7 @@ you, also including Personal Data as follows.
 - **Usage information.** We collect information about how you engage with our
   Service, such as which actions you perform and features you use. We use this
   information to provide you the Service, develop new features, protect the
-  security of the Service and provide customer support. 
+  security of the Service and provide customer support.
 - **Information from cookies and other tracking technologies.** Cookies are
   small text files containing a string of alphanumeric characters that a
   website stores on a visitor’s device and is retrieved by visitor’s browser
@@ -124,35 +124,35 @@ the processing purposes and legal basis are as follows:
   process and deliver entries and rewards in connection with promotions that
   may be offered from time to time on the Service.
 
-  Legal basis: performance of a contract; legitimate interests 
+  Legal basis: performance of a contract; legitimate interests
 
 - **Improving the Service**: We use the information that we collect on the
   Service to understand and analyze the usage trends and preferences of our
   users, to improve the Service, and to develop new products, services,
   features, and functionality.
 
-  Legal basis: performance of a contract; legitimate interests 
+  Legal basis: performance of a contract; legitimate interests
 
 - **Customer support**: We use your email address or other information we
   collect on the Service to contact you for administrative purposes such as
   customer service, to address intellectual property infringement, privacy
   violations or defamation issues.
 
-  Legal basis: performance of a contract 
+  Legal basis: performance of a contract
 
 - **Marketing**: We use your email address or other Personal Data we collect on
   the Service to send communications, including updates on promotions and
   events, relating to products and services offered by us and by third parties
-  we work with. 
+  we work with.
 
   Legal basis: consent
 
 - **Compliance with a legal obligation**: We may use your Personal Data to
   comply with obligations arising from the law. Such processing may include for
   example the following: replying to inquiries from authorities, fulfilment of
-  accounting obligations. 
+  accounting obligations.
 
-  Legal basis: legal obligation 
+  Legal basis: legal obligation
 
 We also may use your Personal Data as may be described in a separate privacy
 notice to you at the time the information is collected, or in other manner to
@@ -166,9 +166,9 @@ your behavior on the Service, (2) delivering, developing and improving the
 Service; (3) enabling us to enhance, customize or modify the Service; (4)
 determining whether marketing campaigns are effective; (5) enhancing data
 security. In each case, legitimate interests are only valid if they are not
-outweighed by your rights and interests. 
+outweighed by your rights and interests.
 
-## Data retention periods 
+## Data retention periods
 
 We only retain the information collected from you for as long as your account
 is active or otherwise for a limited period of time as long as we need it to
@@ -200,19 +200,19 @@ Data in various situations when you decide not to continue using the Service:
   be restored upon your request, which you can send to hello@voog.com. After
   the period of 90 days, your account content and related Personal Data will be
   permanently deleted from the Service. It may take another 90 days for
-  clearing out the backups of the Service. 
+  clearing out the backups of the Service.
 
-## Categories of recipients of Personal Data 
+## Categories of recipients of Personal Data
 
 Information about recipients of Personal Data can be found here: [List of
 partners we share data with](https://www.voog.com/privacy/list-of-partners).
 
-## Data transfers to third countries 
+## Data transfers to third countries
 
 As a general rule Personal Data we collect through the Service is processed in
 centralized databases in Estonia or elsewhere within the European
 Union/European Economic Area (EU/EEA). However, in some cases Personal Data is
-transferred to and processed in countries outside of the EU/EEA. 
+transferred to and processed in countries outside of the EU/EEA.
 
 Transfer and processing of Personal Data outside the EU/EEA can take place
 provided that appropriate safeguards are in place. Such safeguards can for
@@ -255,11 +255,11 @@ hello@voog.com.
   including profiling for direct marketing purposes (such as for example
   receiving marketing offers);
 - **Right to withdraw consent**: you have the right to withdraw your consent
-  for processing of your Personal Data; 
+  for processing of your Personal Data;
 - **Right not to be subject to automated decision-making, including
   profiling**: you have the right not to be subject to a decision based solely
   on automated processing, including profiling if such decision-making has
-  legal effects or similarly significantly affects you; 
+  legal effects or similarly significantly affects you;
 - **Right to submit complaints:** you have the right to contact the Data
   Protection Inspectorate (website in Estonia: [www.aki.ee](http://www.aki.ee))
   if you think that our processing of your Personal Data infringes your rights
@@ -269,7 +269,7 @@ If you would like to receive additional information about the use of your
 Personal Data or exercise of your rights, you can always contact us at
 [hello@voog.com](mailto:hello@voog.com). You may also update, correct, or
 delete your profile information and preferences at any time by accessing your
-account preferences page on the Service. 
+account preferences page on the Service.
 
 If you receive a commercial or promotional email from us, you may unsubscribe
 from it at any time by clicking the respective link at the bottom of the email.
